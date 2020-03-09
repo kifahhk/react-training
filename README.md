@@ -51,9 +51,10 @@ same as in http://www.minhaseconomias.com.br/
 
 ### ToDos: (Can be modified/extended)
 
-- [ ] Create master layout
+- [x] Create BankAccount list component
+- [ ] Add test @kifah
 
-- [ ] Create BankAccount list component
+- [ ] Create master layout
 
 - [ ] Create Category type and add it to the global state
 
