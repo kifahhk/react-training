@@ -3,14 +3,10 @@ import { State, StateWithActions } from 'types/state';
 import reducer from './reducer';
 import { ADD_BANK_ACCOUNT } from './constants';
 import { BankAccount } from '../types/bank-account';
+import { mockBanks } from '../api/mockBanks';
 
 export const defaultState = {
-  bankAccounts: [
-    {
-      name: 'N26',
-      id: '1',
-    },
-  ],
+  bankAccounts: mockBanks,
 };
 
 export default (initialState: State = defaultState): StateWithActions => {
