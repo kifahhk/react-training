@@ -1,5 +1,14 @@
 # React Training
 
+### The project
+We are implementing the interface for the finance project:
+
+### Reference
+- ![image](public/project.png)
+- Link: https://wwws.minhaseconomias.com.br/
+- login: danilo.lima@coya.com
+- pw: paranaue123
+
 ### Run dev env
 
 - Clone this repo
@@ -77,3 +86,4 @@ same as in http://www.minhaseconomias.com.br/
 - [ ] Add filter function to the data table
 
 - [ ] tbd
+
